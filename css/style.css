@@ -199,4 +199,7 @@ body {
     .features {
         padding-bottom: 0;
     }
+    .video {
+        width: 100%;
+    }
 }
