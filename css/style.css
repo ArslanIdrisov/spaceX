@@ -187,7 +187,7 @@ body {
         align-items: center;
         justify-content: center;
     }
-    .footer-nab .item {
+    .footer-nav .item {
         margin-bottom: 10px;
     }
     .footer {
@@ -200,6 +200,8 @@ body {
         padding-bottom: 0;
     }
     .video {
-        max-width: 100%;
+        width: 100%;
+        max-width: 600px;  
+        height: auto; 
     }
 }
